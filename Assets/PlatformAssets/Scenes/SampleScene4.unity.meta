@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2cda990e2423bbf4892e6590ba056729
+guid: f908eb331d30f5b49b6767bdd86b43f3
 DefaultImporter:
   externalObjects: {}
   userData: 
@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 227969
   packageName: PixelArt Platformer (GameAssets)
   packageVersion: 1.0
-  assetPath: Assets/Scenes/SampleScene.unity
+  assetPath: Assets/PixelMan(pixelArtPlatfotmer)/Scenes/SampleScene4.unity
   uploadId: 513919
