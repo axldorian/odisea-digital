@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8d7e8de12a9d0e94c8effc90c79fffa9
+guid: 68f85a52e39357d40b4114b67a163e1f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2833854982414969447
-    second: odisea_menu_0
+      213: -6571668808118197492
+    second: Run8_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: odisea_menu_0
+      name: Run8_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 143
+        y: 23
+        width: 164
+        height: 170
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76aa0d39710e35720800000000000000
-      internalID: 2833854982414969447
+      spriteID: c03a996890ebcc4a0800000000000000
+      internalID: -6571668808118197492
       vertices: []
       indices: 
       edges: []
@@ -128,8 +128,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      odisea_menu_0: 2833854982414969447
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

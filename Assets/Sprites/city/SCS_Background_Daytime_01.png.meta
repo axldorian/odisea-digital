@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8d7e8de12a9d0e94c8effc90c79fffa9
+guid: a533fcc0a0c0d6d42ab71617c4a19efc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2833854982414969447
-    second: odisea_menu_0
+      213: 5683807774691926121
+    second: SCS_Background_Daytime_01_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: odisea_menu_0
+      name: SCS_Background_Daytime_01_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 640
+        height: 480
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76aa0d39710e35720800000000000000
-      internalID: 2833854982414969447
+      spriteID: 960ad169e01f0ee40800000000000000
+      internalID: 5683807774691926121
       vertices: []
       indices: 
       edges: []
@@ -128,8 +128,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      odisea_menu_0: 2833854982414969447
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

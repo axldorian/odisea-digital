@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8d7e8de12a9d0e94c8effc90c79fffa9
+guid: bf90020c8710e6542bf5fc970492cc82
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2833854982414969447
-    second: odisea_menu_0
+      213: -3954633192063930019
+    second: Idle_alive1_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: odisea_menu_0
+      name: Idle_alive1_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 191
         y: 0
-        width: 1920
-        height: 1080
+        width: 80
+        height: 193
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76aa0d39710e35720800000000000000
-      internalID: 2833854982414969447
+      spriteID: d517f0a70125e19c0800000000000000
+      internalID: -3954633192063930019
       vertices: []
       indices: 
       edges: []
@@ -129,7 +129,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      odisea_menu_0: 2833854982414969447
+      Idle_alive1_0: -3954633192063930019
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
