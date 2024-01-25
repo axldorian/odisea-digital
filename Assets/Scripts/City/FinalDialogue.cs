@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class FinalDialogue : MonoBehaviour
 {
 	[SerializeField] private PlayableDirector _director;
+	public GameObject AudioBackground;
 	private bool _firstTime = true;
 
 	// Start is called before the first frame update
@@ -22,6 +23,7 @@ public class FinalDialogue : MonoBehaviour
 		{
 			_firstTime = false;
 			_director.Play();
+			AudioBackground.GetComponent<PlayBGAudio>().StopAudio();
 			StartCoroutine(NextScene());
 		}
 
