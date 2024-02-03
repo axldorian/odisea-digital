@@ -1,0 +1,82 @@
+{
+	"dialogues": [
+		{
+			"name": "Amigo de Blake",
+			"sprite": "generic",
+			"sentences": [
+				"¡Blake! ¡Cuanto tiempo! ¿Cómo has estado?",
+				"Me enteré de que vas a empezar a trabajar en MAL-EXUS.Inc, nada mal ¿eh?"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake_alive",
+			"sentences": [
+				"¡Hola! Sí, estoy emocionado por empezar.",
+				"¡Espero que todo salga bien!"
+			]
+		},
+		{
+			"name": "Amigo de Blake",
+			"sprite": "generic",
+			"sentences": [
+				"¡Seguro que sí! ¡No te preocupes!"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake_alive",
+			"sentences": [
+				"¡Gracias!",
+				"...",
+				"... ¿Qué es eso?"
+			]
+		},
+		{
+			"name": "Amigo de Blake",
+			"sprite": "generic",
+			"sentences": [
+				"¿Qué es que?"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake_alive",
+			"sentences": [
+				"¿Por qué estás vestido así?"
+			]
+		},
+		{
+			"name": "Amigo de Blake",
+			"sprite": "generic",
+			"sentences": [
+				"¿Vestido así? Ahh...",
+				"Voy a la convención de cómics de la ciudad.",
+				"Va a venir el 'Son 500 pesos': Mario Castañeda, el actor de doblaje de Goku.",
+				"¡Espero que me cobre por hablarle!"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake_alive",
+			"sentences": [
+				"...",
+				"¡Qué bien! ¡Diviértete!"
+			]
+		},
+		{
+			"name": "Amigo de Blake",
+			"sprite": "generic",
+			"sentences": [
+				"¡Claro! ¡Nos vemos luego!"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake_alive",
+			"sentences": [
+				"¡Adios!"
+			]
+		}
+	]
+}

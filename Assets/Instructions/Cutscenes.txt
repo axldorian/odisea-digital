@@ -1,0 +1,7 @@
+Para las cutscenes:
+
+Para todo usar: DialogueManager
+
+1. Llamar con 'true' a SetCutsceneState y Llamar a NextCutscene.
+3. Hacer todas las llamadas necesarias a StartDialogueSegment (para todos segmentos de dialogo que se ocupen).
+4. Al terminar la escena, llamar con 'false' a SetCutsceneState.

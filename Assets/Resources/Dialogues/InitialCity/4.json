@@ -1,0 +1,11 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake_alive",
+			"sentences": [
+				"Ah"
+			]
+		}
+	]
+}

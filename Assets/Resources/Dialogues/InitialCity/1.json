@@ -1,0 +1,13 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake_alive",
+			"sentences": [
+				"Debo apresurar el paso, no puedo perder tiempo.",
+				"Es mi primer día de trabajo y no quiero llegar tarde.",
+				"A correr se ha dicho."
+			]
+		}
+	]
+}

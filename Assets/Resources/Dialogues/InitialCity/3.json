@@ -1,0 +1,31 @@
+{
+	"dialogues": [
+		{
+			"name": "Amigo de Blake",
+			"sprite": "generic",
+			"sentences": [
+				"¡Blake! ¡Blake! ¡Espera!",
+				"¡No corras! Mantente siempre alerta.",
+				"He visto en internet que muchas personas han reportado haber visto hoyos que salen de la nada del suelo.",
+				"Dicen que si caes en uno, te lleva a un mundo paralelo.",
+				"Puede que sea solo una broma, pero no está de más tener cuidado."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake_alive",
+			"sentences": [
+				"¡No te preocupes! ¡Soy un experto en esquivar hoyos! Jaja.",
+				"¡Nos vemos!"
+			]
+		},
+		{
+			"name": "Amigo de Blake",
+			"sprite": "generic",
+			"sentences": [
+				"Después no digas que no te lo advertí...",
+				"¡Cuidate!"
+			]
+		}
+	]
+}
