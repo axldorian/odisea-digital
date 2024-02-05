@@ -1,0 +1,20 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"*Asombro* ¡WOW! ¡Con esta espada seremos imparables!"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"*gimiendo* Aiñ.",
+				"No hay tiempo que perder.",
+				"Vamos por el otro cofre."
+			]
+		}
+	]
+}

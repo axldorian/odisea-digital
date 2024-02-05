@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 7f6be41f6a2009841aed94d6f90a457c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7952360068755382702
+    second: tileset_bosque_2x_0
+  - first:
+      213: -7056756348999878080
+    second: tileset_bosque_2x_1
+  - first:
+      213: -3470702698551682058
+    second: tileset_bosque_2x_2
+  - first:
+      213: -7663644874717404857
+    second: tileset_bosque_2x_3
+  - first:
+      213: -2563221233195330024
+    second: tileset_bosque_2x_4
+  - first:
+      213: 5609257783575359001
+    second: tileset_bosque_2x_5
+  - first:
+      213: 1607009967696292345
+    second: tileset_bosque_2x_6
+  - first:
+      213: -8701706102922348701
+    second: tileset_bosque_2x_7
+  - first:
+      213: -3429149599279475458
+    second: tileset_bosque_2x_8
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_bosque_2x_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1493
+        width: 578
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea16a2069557c5e60800000000000000
+      internalID: 7952360068755382702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_bosque_2x_1
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1493
+        width: 578
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a31672d7d511e90800000000000000
+      internalID: -7056756348999878080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_bosque_2x_2
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1493
+        width: 578
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb56d3c84695dfc0800000000000000
+      internalID: -3470702698551682058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_bosque_2x_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 821
+        width: 554
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741e9b5179345a590800000000000000
+      internalID: -7663644874717404857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_bosque_2x_4
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 821
+        width: 578
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81657a27edb9d6cd0800000000000000
+      internalID: -2563221233195330024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_bosque_2x_5
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 821
+        width: 554
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91eaa9b2c3618dd40800000000000000
+      internalID: 5609257783575359001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_bosque_2x_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 554
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9ac032d0f3d4610800000000000000
+      internalID: 1607009967696292345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_bosque_2x_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 161
+        width: 578
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367f67b27645d3780800000000000000
+      internalID: -8701706102922348701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_bosque_2x_8
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 161
+        width: 554
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4164d9b963960d0800000000000000
+      internalID: -3429149599279475458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tileset_bosque_2x_0: 7952360068755382702
+      tileset_bosque_2x_1: -7056756348999878080
+      tileset_bosque_2x_2: -3470702698551682058
+      tileset_bosque_2x_3: -7663644874717404857
+      tileset_bosque_2x_4: -2563221233195330024
+      tileset_bosque_2x_5: 5609257783575359001
+      tileset_bosque_2x_6: 1607009967696292345
+      tileset_bosque_2x_7: -8701706102922348701
+      tileset_bosque_2x_8: -3429149599279475458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

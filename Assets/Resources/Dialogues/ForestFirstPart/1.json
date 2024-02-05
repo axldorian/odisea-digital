@@ -1,0 +1,16 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"*murmurando* ¿Dónde estoy? Esto no parece nada familiar.",
+				" ¡Debí hacerle caso a ese tipo y tener más cuidado!",
+				"...",
+				"¡Espera! ¿Por qué mi ropa cambió? ¿Y qué es esto que tengo en la cabeza?",
+				"No recuerdo haberme teñido el cabello de azul...",
+				"¿Qué me pasó? ¿Dónde estoy?"
+			]
+		}
+	]
+}

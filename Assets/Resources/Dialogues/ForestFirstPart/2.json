@@ -1,0 +1,148 @@
+{
+	"dialogues": [
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"¡Hola!"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"¿Hola? ¡¿Qué eres?!"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Soy un capibara, me llamo Charlie.",
+				"¿Tú cómo llegaste aquí?"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"...",
+				"Cayendo por un hoyo. ¿Y tú?"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Fui arrastrado aquí por un descuido de mi dueño.",
+				"Es CEO de una importante compañía de software, se Llama MAL-EXUS Inc."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"*perplejo* ¿Eres la mascota de mi jefe?"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"¿Tú trabajas para él?"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Sí, soy un sysadmin recién contratado por la empresa. Esto es surrealista."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Pues déjame decirte que este bosque está lleno de enemigos, no estoy seguro al 100% de lo que ha pasado, pero hay algo de lo que sí.",
+				"Necesito encontrar a 3 antiguos sysadmins, ellos conocen el camino."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"¿Sysadmins? ¿Camino? ¿De qué hablas?"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Ellos conocen el camino hacia la motherboard, el lugar donde descubriremos más de este mundo.",
+				"Pero no tengo la fuerza para enfrentar a las amenazas de aquí.",
+				"Así que, tengo una propuesta para ti."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"¿Propuesta? ¿De qué se trata?"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Ayúdame a encontrar la verdad de este mundo y como poder regresar al nuestro.",
+				"Te ofrezco mi guía y el conocimiento que he adquirido.",
+				"Solo necesito que me prestes tu fuerza en combate."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"(pensando) ¿Qué otra opción tengo? Estoy atrapado aquí.",
+				"... ¡Trato hecho!"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"*Emocionado* ¡Perfecto!",
+				"¡Vamos a buscar a los sysadmins!"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Pero… *triste* No tengo armas."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Conozco 2 caminos que nos llevarán a dos armas.",
+				"Una espada y una pistola, ¿no es grandioso?"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"*Emocionado* ¡Te sigo!"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"¡Vamos!"
+			]
+		}
+	]
+}

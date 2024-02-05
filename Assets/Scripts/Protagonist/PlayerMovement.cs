@@ -1,26 +1,14 @@
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovement : PlayerBase
 {
-	private float horizontal;
-	private readonly float speed = 8f;
-	private float jumpingPower = 10f;
-	private bool isFacingRight = true;
-
-	private DialogueManager dialogueManager;
-
-	[SerializeField] private Animator animator;
-	[SerializeField] private Rigidbody2D rb;
-	[SerializeField] private Transform groundCheck;
-	[SerializeField] private LayerMask groundLayer;
-
 	private void Start()
 	{
 		// find the dialogue manager by DialogManager.cs
 		dialogueManager = GameObject.Find("DialogueManager").GetComponent<DialogueManager>();
 	}
 
-	void Update()
+	private void Update()
 	{
 		// If there is a cutscene playing, we don't want the player to move
 		if (dialogueManager.isCutscenePlaying)
@@ -61,22 +49,6 @@ public class PlayerMovement : MonoBehaviour
 		else
 		{
 			animator.SetBool("run", false);
-		}
-	}
-
-	private bool IsGrounded()
-	{
-		return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
-	}
-
-	private void Flip()
-	{
-		if (isFacingRight && horizontal < 0f || !isFacingRight && horizontal > 0f)
-		{
-			isFacingRight = !isFacingRight;
-			Vector3 localScale = transform.localScale;
-			localScale.x *= -1f;
-			transform.localScale = localScale;
 		}
 	}
 }

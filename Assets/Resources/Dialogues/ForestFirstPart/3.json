@@ -1,0 +1,25 @@
+{
+	"dialogues": [
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"*Emocionado* ¡Mira! Ahí está el cofre."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"¿Es seguro abrirlo?"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"¡Claro! Conozco a la perfección este lugar."
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"dialogues": [
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"*Emocionado* ¡Finalmente!",
+				"¡Abrelo Blake!"
+			]
+		}
+	]
+}

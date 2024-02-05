@@ -1,0 +1,40 @@
+{
+	"dialogues": [
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Creo que ya estamos listos."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Vamos al rescate de mis colegas."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Recuerda que tenemos un trato.",
+				"Solo soy tú guía, así que no podré ayudarte a pelear."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Lo recuerdo."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"*emocionado* ¡Genial!, ¡Vamos!"
+			]
+		}
+	]
+}

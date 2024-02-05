@@ -15,8 +15,6 @@ public class CutsceneTrigger : MonoBehaviour
 			// If the cutscene has not been triggered yet
 			if (!isTriggered)
 			{
-				Debug.Log("Player entered the trigger area.");
-
 				// Set the cutscene as triggered
 				isTriggered = true;
 
