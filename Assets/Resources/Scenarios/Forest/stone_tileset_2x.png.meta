@@ -320,7 +320,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stone_tileset_2x_0: 91794768817340631
+      stone_tileset_2x_1: -1858136405784258270
+      stone_tileset_2x_2: -5635101482314852244
+      stone_tileset_2x_3: 2958529544940821282
+      stone_tileset_2x_4: 6829711587988103040
+      stone_tileset_2x_5: -882359860464146598
+      stone_tileset_2x_6: -2126287493607825630
+      stone_tileset_2x_7: -876219002225700467
+      stone_tileset_2x_8: -6164769446430867882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

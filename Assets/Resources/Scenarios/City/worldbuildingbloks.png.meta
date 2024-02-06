@@ -800,7 +800,36 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      worldbuildingbloks_0: 5550642217471070490
+      worldbuildingbloks_1: 1573498644326297652
+      worldbuildingbloks_10: -3713387231273113266
+      worldbuildingbloks_11: -8733455178972897053
+      worldbuildingbloks_12: -6290289537967232965
+      worldbuildingbloks_13: 8852860890409101369
+      worldbuildingbloks_14: 7343994980597587992
+      worldbuildingbloks_15: 2344326258304083467
+      worldbuildingbloks_16: -7629739994411425493
+      worldbuildingbloks_17: -3178139011258120113
+      worldbuildingbloks_18: 5827548421280648630
+      worldbuildingbloks_19: 3091475922561593227
+      worldbuildingbloks_2: 3847936875191802436
+      worldbuildingbloks_20: 1584967614531890420
+      worldbuildingbloks_21: -6005002885731699859
+      worldbuildingbloks_22: 7413601267143799671
+      worldbuildingbloks_23: 1617741840774527099
+      worldbuildingbloks_24: 8717015689152677319
+      worldbuildingbloks_25: -3397754206495548980
+      worldbuildingbloks_26: -4764048242829267214
+      worldbuildingbloks_27: 9132810557753142331
+      worldbuildingbloks_28: 3159333733262096191
+      worldbuildingbloks_3: -2675724382867920485
+      worldbuildingbloks_4: -2704764268534665765
+      worldbuildingbloks_5: -7319351911025662908
+      worldbuildingbloks_6: 51425499822704214
+      worldbuildingbloks_7: -8108748375161603530
+      worldbuildingbloks_8: 3041523710595544887
+      worldbuildingbloks_9: -6160858222690901206
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
