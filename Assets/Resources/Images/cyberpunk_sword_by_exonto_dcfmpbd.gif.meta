@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b195965bf9a007d47947d057c12bd0e6
+guid: 1df6aa098a8c3f44fa5d352b5cc453e5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7165162994186742415
-    second: protagonista_0
+      213: 4066493999625300601
+    second: cyberpunk_sword_by_exonto_dcfmpbd_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: protagonista_0
+      name: cyberpunk_sword_by_exonto_dcfmpbd_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 175
-        height: 225
+        x: 15
+        y: 15
+        width: 158
+        height: 162
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17599bd283a309c90800000000000000
-      internalID: -7165162994186742415
+      spriteID: 97a6ce85fb61f6830800000000000000
+      internalID: 4066493999625300601
       vertices: []
       indices: 
       edges: []
@@ -128,8 +128,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      protagonista_0: -7165162994186742415
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

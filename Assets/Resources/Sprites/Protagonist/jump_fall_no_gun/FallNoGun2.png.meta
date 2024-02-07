@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FallNoGun2_0: 7924039393394015332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
