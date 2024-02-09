@@ -11,7 +11,6 @@ public class MenuController : MonoBehaviour
 
     public void BotonSalir()
     {
-        Debug.Log("Salir...");
         Application.Quit();
     }
 }

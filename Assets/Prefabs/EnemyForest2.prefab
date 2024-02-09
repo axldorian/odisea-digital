@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 310099112238962027}
   - component: {fileID: 8537025181531278929}
   - component: {fileID: 1014186846443405492}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: EnemyForest2
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -246,9 +246,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damageMade: 5
-  speed: -3
+  speed: -2
   groundCheck: {fileID: 1233087703752727436}
-  distance: 2
+  distance: 5
   attackControllerRadius: {fileID: 2696922857043231510}
   attackRadius: 10
   attackDelay: 3

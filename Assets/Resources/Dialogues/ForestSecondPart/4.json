@@ -1,0 +1,33 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Mira, una reja."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"¿Qué hacemos ahora?"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"¿Y sí intentamos abrirla con la llave que encontramos?"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"¡Buena idea!",
+				"Dale."
+			]
+		}
+	]
+}

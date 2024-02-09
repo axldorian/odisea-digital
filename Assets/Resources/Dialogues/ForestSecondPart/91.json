@@ -1,0 +1,44 @@
+{
+	"dialogues": [
+		{
+			"name": "Ingeniero 3",
+			"sprite": "generic",
+			"sentences": [
+				"Eso sí que es poder, gracias por la ayuda."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Ja, ja, ja, ni lo menciones, amigo."
+			]
+		},
+		{
+			"name": "Ingeniero 3",
+			"sprite": "generic",
+			"sentences": [
+				"Ten, esto es para ustedes.",
+				"Aquí tienen un fragmento del mapa para llegar a la motherboard.",
+				"Deben derrotar al guardián del procesador para regresar al mundo real.",
+				"Nadie lo ha logrado.",
+				"Y creo que ustedes tampoco lo harán, suerte."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Gracias por tu sinceridad, nos vemos.",
+				"Ahora podemos llegar a la motherboard."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Al fin."
+			]
+		}
+	]
+}

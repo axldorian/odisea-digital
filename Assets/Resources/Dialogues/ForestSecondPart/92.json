@@ -1,0 +1,25 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Después de lo que hemos superado, estoy listo para lo que sea."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"La motherboard está más adelante, no nos detengamos."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"¡Vamos a por ella!"
+			]
+		}
+	]
+}

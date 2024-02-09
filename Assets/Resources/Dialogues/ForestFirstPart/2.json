@@ -56,7 +56,7 @@
 			"name": "Blake",
 			"sprite": "blake",
 			"sentences": [
-				"Sí, soy un sysadmin recién contratado por la empresa. Esto es surrealista."
+				"Sí, soy un ingeniero recién contratado por la empresa. Esto es surrealista."
 			]
 		},
 		{
@@ -64,14 +64,14 @@
 			"sprite": "charlie",
 			"sentences": [
 				"Pues déjame decirte que este bosque está lleno de enemigos, no estoy seguro al 100% de lo que ha pasado, pero hay algo de lo que sí.",
-				"Necesito encontrar a 3 antiguos sysadmins, ellos conocen el camino."
+				"Necesito encontrar a 3 antiguos ingenieros, ellos conocen el camino."
 			]
 		},
 		{
 			"name": "Blake",
 			"sprite": "blake",
 			"sentences": [
-				"¿Sysadmins? ¿Camino? ¿De qué hablas?"
+				"¿Ingenieros? ¿Camino? ¿De qué hablas?"
 			]
 		},
 		{
@@ -112,7 +112,7 @@
 			"sprite": "charlie",
 			"sentences": [
 				"*Emocionado* ¡Perfecto!",
-				"¡Vamos a buscar a los sysadmins!"
+				"¡Vamos a buscar a los ingenieros!"
 			]
 		},
 		{

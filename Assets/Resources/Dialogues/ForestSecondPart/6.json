@@ -1,0 +1,50 @@
+{
+	"dialogues": [
+		{
+			"name": "Ingeniero 1",
+			"sprite": "generic",
+			"sentences": [
+				"Gracias por rescatarme de estos monstruos.",
+				"¿Cómo puedo pagártelo?"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Necesitamos su conocimiento para seguir avanzando y llegar a la motherboard."
+			]
+		},
+		{
+			"name": "Ingeniero 1",
+			"sprite": "generic",
+			"sentences": [
+				"Su fuerza es impresionante. Estoy seguro de que podrán llegar.",
+				"Aquí tienen un fragmento del mapa para llegar a la motherboard.",
+				"Este mundo está al mando de un horrible villano y sus secuaces.",
+				"Espero que puedan derrotarlos."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"¡Muchas gracias! Seguiremos con nuestro camino."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Nos vemos, colega."
+			]
+		},
+		{
+			"name": "Ingeniero 1",
+			"sprite": "generic",
+			"sentences": [
+				"Buena suerte."
+			]
+		}
+	]
+}

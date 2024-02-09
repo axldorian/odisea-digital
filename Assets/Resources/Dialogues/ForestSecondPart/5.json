@@ -1,0 +1,36 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"¡Desapareció!"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Ya veo.",
+				"Oye, Blake, creo que hay que buscar más de esas llaves.",
+				"Solo por si acaso.",
+				"Y si encontramos más, podríamos abrir más puertas."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"No tenías que decirlo.",
+				"Lo haré."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"¡Excelente! Sigamos buscando."
+			]
+		}
+	]
+}

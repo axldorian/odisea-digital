@@ -1,0 +1,11 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Yyy, segunda reja abierta. Ahora podemos pasar."
+			]
+		}
+	]
+}

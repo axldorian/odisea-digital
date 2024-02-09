@@ -1,0 +1,60 @@
+{
+	"dialogues": [
+		{
+			"name": "Ingeniero 2",
+			"sprite": "generic",
+			"sentences": [
+				"Gracias por rescatarme de estos monstruos, pensé que ya no la contaba."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"No es nada, ¿tienes algo que nos sea de utilidad para llegar a la motherboard?"
+			]
+		},
+		{
+			"name": "Ingeniero 2",
+			"sprite": "generic",
+			"sentences": [
+				"Mm, sé de lo que hablas.",
+				"Aquí tienen un fragmento del mapa para llegar a la motherboard.",
+				"Este mundo tiene 2 regiones que necesitan cruzar para ir al mundo real.",
+				"Mucha suerte."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"¡Muchas gracias!"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"...",
+				"LLevo desde el anterior dialogo intentando entender algo.",
+				"¿Por qué está temblando la caja de texto?"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"... ¿Qué?",
+				"Es cierto.",
+				"Espera, ¿Estamos rompiendo la cuarta pared?"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"...Olvidemos eso."
+			]
+		}
+	]
+}

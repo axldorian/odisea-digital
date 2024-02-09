@@ -4,7 +4,7 @@ public class ForestCommon1 : MonoBehaviour
 {
 	private Enemy enemyComponent;
 	[SerializeField] private int damageMade;
-	private readonly float maxFlyingHeight = 0.6f;
+	// private readonly float maxFlyingHeight = 0.6f;
 	private Rigidbody2D rb;
 
 	// For movement
@@ -22,6 +22,8 @@ public class ForestCommon1 : MonoBehaviour
 	private float attackDelayTimer = 0f;
 
 
+	private Vector3 initalPostion;
+
 	public bool canMove = true;
 	public bool isFollowingPlayer = false;
 
@@ -34,6 +36,9 @@ public class ForestCommon1 : MonoBehaviour
 		// Find the player data
 		playerStatus = GameObject.FindWithTag("Player").GetComponent<PlayerStatus>();
 		playerPosition = GameObject.FindWithTag("Player").GetComponent<Transform>();
+
+		// Set the initial position
+		initalPostion = transform.position;
 	}
 
 	void FixedUpdate()
@@ -136,12 +141,18 @@ public class ForestCommon1 : MonoBehaviour
 
 
 
-		// Verify if the enemy not surpassed the max flying height
-		if (transform.position.y < maxFlyingHeight && canMove)
+		// Verify if the enemy is close to the initial position
+		if (Vector2.Distance(initalPostion, transform.position) < 1.5f)
 		{
 			// Add force to the enemy to fly
 			rb.AddForce(Vector2.up * 0.05f, ForceMode2D.Impulse);
 		}
+
+		// if (transform.position.y < maxFlyingHeight && canMove)
+		// {
+		// 	// Add force to the enemy to fly
+		// 	rb.AddForce(Vector2.up * 0.05f, ForceMode2D.Impulse);
+		// }
 	}
 
 	// private void OnDrawGizmos()

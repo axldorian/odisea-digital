@@ -1,0 +1,36 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Hemos avanzado mucho.",
+				"Sigue siendo el bosque, pero su aspecto ha cambiado."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"No te confíes, Blake. Este lugar es peligroso.",
+				"Aquí es donde los monstruos empiezan a aparecer."
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Estoy listo para enfrentarlos.",
+				"Vamos a seguir adelante."
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"Presiento que tus colegas están cerca.",
+				"!Vamos a toda prisa!"
+			]
+		}
+	]
+}

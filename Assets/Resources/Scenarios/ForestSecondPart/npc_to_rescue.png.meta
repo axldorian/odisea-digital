@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 840609c6d9fd59945ba9fb5770336c9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8027101567999135718
+    second: npc_to_rescue_0
+  - first:
+      213: -6483364108749513010
+    second: npc_to_rescue_1
+  - first:
+      213: -7378098606128872303
+    second: npc_to_rescue_2
+  - first:
+      213: 4683533022576101153
+    second: npc_to_rescue_3
+  - first:
+      213: 2991616974324994506
+    second: npc_to_rescue_4
+  - first:
+      213: 2947679095864109387
+    second: npc_to_rescue_5
+  - first:
+      213: -6252088002438576104
+    second: npc_to_rescue_6
+  - first:
+      213: 7547232431074990341
+    second: npc_to_rescue_7
+  - first:
+      213: -6018764035388763978
+    second: npc_to_rescue_8
+  - first:
+      213: -6977039746509364508
+    second: npc_to_rescue_9
+  - first:
+      213: 1788563668160762198
+    second: npc_to_rescue_10
+  - first:
+      213: -5335154402091347076
+    second: npc_to_rescue_11
+  - first:
+      213: -6244423304104726879
+    second: npc_to_rescue_12
+  - first:
+      213: 5738563533357692853
+    second: npc_to_rescue_13
+  - first:
+      213: -5122241121883754879
+    second: npc_to_rescue_14
+  - first:
+      213: -3130233455076557166
+    second: npc_to_rescue_15
+  - first:
+      213: -4647093246489151346
+    second: npc_to_rescue_16
+  - first:
+      213: -4897383569845833029
+    second: npc_to_rescue_17
+  - first:
+      213: -4918831179451567455
+    second: npc_to_rescue_18
+  - first:
+      213: -769900033895313911
+    second: npc_to_rescue_19
+  - first:
+      213: -4466399716580450468
+    second: npc_to_rescue_20
+  - first:
+      213: 4987163023295130110
+    second: npc_to_rescue_21
+  - first:
+      213: 7716896836618846871
+    second: npc_to_rescue_22
+  - first:
+      213: 6507453934553922348
+    second: npc_to_rescue_23
+  - first:
+      213: 7477539617555880494
+    second: npc_to_rescue_24
+  - first:
+      213: 7900999959661949812
+    second: npc_to_rescue_25
+  - first:
+      213: -6369363778961592499
+    second: npc_to_rescue_26
+  - first:
+      213: -1368961499092490182
+    second: npc_to_rescue_27
+  - first:
+      213: -4117397743605128186
+    second: npc_to_rescue_28
+  - first:
+      213: 7850562803456771669
+    second: npc_to_rescue_29
+  - first:
+      213: 846166226471342976
+    second: npc_to_rescue_30
+  - first:
+      213: -8015511651663380405
+    second: npc_to_rescue_31
+  - first:
+      213: -414139162579635760
+    second: npc_to_rescue_32
+  - first:
+      213: 2295059074911713118
+    second: npc_to_rescue_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_to_rescue_0
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 341
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efc190c85ef56f60800000000000000
+      internalID: 8027101567999135718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_1
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 341
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eced77481b67606a0800000000000000
+      internalID: -6483364108749513010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_2
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 341
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19442e7986abb9990800000000000000
+      internalID: -7378098606128872303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 284
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127c57838704ff040800000000000000
+      internalID: 4683533022576101153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 284
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac19ba2b9cb548920800000000000000
+      internalID: 2991616974324994506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 284
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4923dc258248e820800000000000000
+      internalID: 2947679095864109387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 284
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818ca26361f1c39a0800000000000000
+      internalID: -6252088002438576104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 321
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509588bb8e72db860800000000000000
+      internalID: 7547232431074990341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 284
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b091c3affd097ca0800000000000000
+      internalID: -6018764035388763978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_9
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 294
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2278501539c2f90800000000000000
+      internalID: -6977039746509364508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_10
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 296
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65154e21e2142d810800000000000000
+      internalID: 1788563668160762198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 227
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73db719659b5f5b0800000000000000
+      internalID: -5335154402091347076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 227
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeaaabd61a5759a0800000000000000
+      internalID: -6244423304104726879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 227
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7bbce112973af40800000000000000
+      internalID: 5738563533357692853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_14
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 227
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e6834a6d42ae8b0800000000000000
+      internalID: -5122241121883754879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_15
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 227
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e3e1ed14d2f84d0800000000000000
+      internalID: -3130233455076557166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_16
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 227
+        width: 143
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b5ec4055328fb0800000000000000
+      internalID: -4647093246489151346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_17
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 227
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb23186379ff80cb0800000000000000
+      internalID: -4897383569845833029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_18
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 170
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a27ca67a1dccbbb0800000000000000
+      internalID: -4918831179451567455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_19
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 170
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ecb1f8ff3c055f0800000000000000
+      internalID: -769900033895313911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 170
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f115c2f192402c0800000000000000
+      internalID: -4466399716580450468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_21
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 171
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef92878b856f53540800000000000000
+      internalID: 4987163023295130110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_22
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 170
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792800b79cce71b60800000000000000
+      internalID: 7716896836618846871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bfd4120ee1f4a50800000000000000
+      internalID: 6507453934553922348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_24
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 113
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a145a1aae85c760800000000000000
+      internalID: 7477539617555880494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_25
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 113
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473b60e1a9df5ad60800000000000000
+      internalID: 7900999959661949812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_26
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 113
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f21cda3697b97a0800000000000000
+      internalID: -6369363778961592499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_27
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 113
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38e76705c8700de0800000000000000
+      internalID: -1368961499092490182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_28
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 56
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604eb6d21901cd6c0800000000000000
+      internalID: -4117397743605128186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_29
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 56
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5568fe2964dc2fc60800000000000000
+      internalID: 7850562803456771669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_30
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 56
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083d1c523bf2ebb00800000000000000
+      internalID: 846166226471342976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_31
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 56
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40899dee9e23c090800000000000000
+      internalID: -8015511651663380405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_32
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 56
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1fcd630aea04af0800000000000000
+      internalID: -414139162579635760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_to_rescue_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5736a2a110b9df10800000000000000
+      internalID: 2295059074911713118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      npc_to_rescue_0: 8027101567999135718
+      npc_to_rescue_1: -6483364108749513010
+      npc_to_rescue_10: 1788563668160762198
+      npc_to_rescue_11: -5335154402091347076
+      npc_to_rescue_12: -6244423304104726879
+      npc_to_rescue_13: 5738563533357692853
+      npc_to_rescue_14: -5122241121883754879
+      npc_to_rescue_15: -3130233455076557166
+      npc_to_rescue_16: -4647093246489151346
+      npc_to_rescue_17: -4897383569845833029
+      npc_to_rescue_18: -4918831179451567455
+      npc_to_rescue_19: -769900033895313911
+      npc_to_rescue_2: -7378098606128872303
+      npc_to_rescue_20: -4466399716580450468
+      npc_to_rescue_21: 4987163023295130110
+      npc_to_rescue_22: 7716896836618846871
+      npc_to_rescue_23: 6507453934553922348
+      npc_to_rescue_24: 7477539617555880494
+      npc_to_rescue_25: 7900999959661949812
+      npc_to_rescue_26: -6369363778961592499
+      npc_to_rescue_27: -1368961499092490182
+      npc_to_rescue_28: -4117397743605128186
+      npc_to_rescue_29: 7850562803456771669
+      npc_to_rescue_3: 4683533022576101153
+      npc_to_rescue_30: 846166226471342976
+      npc_to_rescue_31: -8015511651663380405
+      npc_to_rescue_32: -414139162579635760
+      npc_to_rescue_33: 2295059074911713118
+      npc_to_rescue_4: 2991616974324994506
+      npc_to_rescue_5: 2947679095864109387
+      npc_to_rescue_6: -6252088002438576104
+      npc_to_rescue_7: 7547232431074990341
+      npc_to_rescue_8: -6018764035388763978
+      npc_to_rescue_9: -6977039746509364508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

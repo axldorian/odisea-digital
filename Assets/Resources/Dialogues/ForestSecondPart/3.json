@@ -1,0 +1,26 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"¿Una llave?"
+			]
+		},
+		{
+			"name": "Charlie",
+			"sprite": "charlie",
+			"sentences": [
+				"¿Para qué se utilizará?"
+			]
+		},
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Supongo que pronto lo sabremos.",
+				"Sigamos."
+			]
+		}
+	]
+}

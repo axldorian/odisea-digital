@@ -11,5 +11,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InitialCity.unity
     guid: efd9fab2b4b09b74a835889bd22e05d7
+  - enabled: 1
+    path: Assets/Scenes/ForestFirstPart.unity
+    guid: de3847beddd89974e9834402779f1aec
+  - enabled: 1
+    path: Assets/Scenes/ForestSecondPart.unity
+    guid: ced94e793fb139a48a2eb53a256ec175
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

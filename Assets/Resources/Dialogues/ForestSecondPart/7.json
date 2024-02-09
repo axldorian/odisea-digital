@@ -1,0 +1,11 @@
+{
+	"dialogues": [
+		{
+			"name": "Blake",
+			"sprite": "blake",
+			"sentences": [
+				"Segunda llave encontrada."
+			]
+		}
+	]
+}

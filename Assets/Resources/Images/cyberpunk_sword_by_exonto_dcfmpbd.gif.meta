@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cyberpunk_sword_by_exonto_dcfmpbd_0: 4066493999625300601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
